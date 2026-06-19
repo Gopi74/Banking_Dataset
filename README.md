@@ -164,7 +164,3 @@ This dataset is intended for educational, research, and demonstration purposes. 
 ## 🤝 Contributions
 
 Contributions, improvements, and feature engineering suggestions are welcome. Feel free to fork the repository and submit pull requests.
-
----
-
-⭐ If you find this dataset useful, consider giving the repository a star!
